@@ -1,0 +1,35 @@
+#quebragalho {
+    text-align: center;
+    color: #e9e900;
+}
+
+.img-container {
+    text-align: center;
+}
+
+#missão {
+    width: 20%;
+}
+
+body {
+    background-color: black;
+}
+
+#n1 {
+    width: 4%;
+    padding-right: 1%;
+}
+
+#n2 {
+    width: 4%;
+
+}
+
+#n3 {
+    width: 4%;
+    padding-left: 1%;
+}
+
+#id {
+    width: 100%;
+}
